@@ -5,6 +5,6 @@ module Calculation
   end
 
   def self.substraction(a, b)
-    return b
+    return a -b
   end
 end
